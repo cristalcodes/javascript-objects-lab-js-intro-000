@@ -1,4 +1,4 @@
-recipes ={
+var recipes ={
   prop: 1
 }
 
