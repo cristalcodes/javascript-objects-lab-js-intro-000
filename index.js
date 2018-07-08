@@ -1,4 +1,4 @@
-var recipes ={
+recipes ={
   prop: 1
 }
 
@@ -8,7 +8,5 @@ function updateObjectWithKeyAndValue(object, key, value){
 
 
 function destructivelyUpdateObjectWithKeyAndValue(object,key,value){
-  var object='prop2';
-  recipes[oject]=2
-  return recipes
+  
 }
