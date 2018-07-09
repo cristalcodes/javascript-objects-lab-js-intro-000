@@ -1,4 +1,4 @@
-var Objects ={
+var objects ={
   recipes
 }
 
