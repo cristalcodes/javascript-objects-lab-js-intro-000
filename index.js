@@ -1,7 +1,5 @@
-function Objects(){
-  var recipes={
-    "banana":'pie'
-  }
+var recipes={
+  "prop":1
 }
 
 function updateObjectWithKeyAndValue(object, key, value){
