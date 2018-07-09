@@ -1,6 +1,6 @@
 function Objects(){
   var recipes={
-    object
+    "banana":'pie'
   }
 }
 
